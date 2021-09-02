@@ -1,0 +1,13 @@
+body{
+background-color: #4158D0;
+background-image: -webkit-linear-gradient(43deg, #002aff 0%, #ff00ee 46%, #ffa600 100%);
+background-image: -moz-linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
+background-image: -o-linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
+background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 46%, #FFCC70 100%);
+border: firebrick, 15px;
+}
+#heading{
+    color: chartreuse;
+    text-decoration: underline;
+    text-decoration-style: double;
+}
